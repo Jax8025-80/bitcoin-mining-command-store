@@ -1,0 +1,17 @@
+
+manifestVersion: 1
+id: bitcoin-mining-command
+category: bitcoin
+name: Bitcoin Mining Command
+version: "1.0.0"
+tagline: Personal Bitcoin mining command center
+description: >-
+  Personal dashboard for monitoring Bitcoin mining
+  equipment, performance, and operations.
+developer: Jax8025-80
+website: https://github.com/Jax8025-80/bitcoin-mining-command-store
+repo: https://github.com/Jax8025-80/bitcoin-mining-command-store
+support: https://github.com/Jax8025-80/bitcoin-mining-command-store/issues
+port: 3081
+path: ""
+dependencies: []
