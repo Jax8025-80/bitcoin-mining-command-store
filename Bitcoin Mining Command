@@ -1,0 +1,17 @@
+
+manifestVersion: 1
+id: bitcoin-mining-command
+category: bitcoin
+name: Bitcoin Mining Command
+version: "1.0.0"
+tagline: Bitcoin mining monitoring and command center
+description: >-
+  Personal Bitcoin Mining AI Command Center for
+  monitoring miners, performance, and mining operations.
+developer: Jax8025-80
+website: https://github.com/Jax8025-80/bitcoin-mining-command-store
+repo: https://github.com/Jax8025-80/bitcoin-mining-command-store
+support: https://github.com/Jax8025-80/bitcoin-mining-command-store/issues
+port: 3080
+path: ""
+dependencies: []
